@@ -1,11 +1,11 @@
 # Django E-commerce
 This project is a basic e-commerce platform built with Django and Django Rest Framework.
 
-## Features
-- User authentication and authorization
-- Cart management
-- Order Placement
-- Coupon Application
+## Settings
+Following settings can be changed in `core/settings.py`
+- `NTH_ORDER_FOR_COUPON = 3`
+- `COUPON_DISCOUNT_PERCENTAGE = 10`
+
 
 ## Installation
 - Clone the repository
