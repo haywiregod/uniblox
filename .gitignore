@@ -1,0 +1,18 @@
+archives/
+
+# Django
+logs/
+*.log
+*.pot
+*.pyc
+__pycache__
+# db.sqlite3
+# !media/templates
+media/
+static/
+
+# Environment files
+*.env
+
+# Mac OS related files to ignore
+**/.DS_Store
